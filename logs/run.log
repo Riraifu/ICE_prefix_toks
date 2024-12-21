@@ -203,3 +203,14 @@
 2024-12-21 22:28:16,578 - easyeditor.editors.editor - INFO - Evaluation took 0.0824277400970459
 2024-12-21 22:28:19,199 - easyeditor.editors.editor - INFO - Execution 1 editing took 0.8188996315002441
 2024-12-21 22:28:19,278 - easyeditor.editors.editor - INFO - Evaluation took 0.07921409606933594
+2024-12-21 22:33:26,960 - easyeditor.editors.editor - INFO - Instantiating model
+2024-12-21 22:33:34,095 - easyeditor.editors.editor - INFO - Execution 0 editing took 1.5980801582336426
+2024-12-21 22:33:34,179 - easyeditor.editors.editor - INFO - Evaluation took 0.08359456062316895
+2024-12-21 22:33:36,828 - easyeditor.editors.editor - INFO - Execution 1 editing took 0.8480548858642578
+2024-12-21 22:33:36,910 - easyeditor.editors.editor - INFO - Evaluation took 0.08136153221130371
+2024-12-21 22:33:39,563 - easyeditor.editors.editor - INFO - Execution 2 editing took 0.8575656414031982
+2024-12-21 22:33:39,645 - easyeditor.editors.editor - INFO - Evaluation took 0.08085346221923828
+2024-12-21 22:33:41,663 - easyeditor.editors.editor - INFO - Execution 3 editing took 0.20734429359436035
+2024-12-21 22:33:41,743 - easyeditor.editors.editor - INFO - Evaluation took 0.07896852493286133
+2024-12-21 22:33:43,810 - easyeditor.editors.editor - INFO - Execution 4 editing took 0.255387544631958
+2024-12-21 22:33:43,896 - easyeditor.editors.editor - INFO - Evaluation took 0.08600163459777832
