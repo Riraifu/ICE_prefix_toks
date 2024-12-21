@@ -1,3 +1,4 @@
 ./logs
 **/__pycache__
 *_pre_edit*.json
+./data

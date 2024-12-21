@@ -43,10 +43,10 @@ python examples/run_knowedit_llama2.py \
     # --data_dir=./data/zsre_train_10000.json \
 
 
-python examples/run_knowedit_llama2.py \
-    --editing_method=ICE \
-    --hparams_dir=./hparams/ICE/llama-8b.yaml \
-    --datatype='zsre' \
-    --metrics_save_dir=./results/llama-8b/ICE \
-    --data_dir=./data/zsre_train_100000.json \
+# python examples/run_knowedit_llama2.py \
+#     --editing_method=ICE \
+#     --hparams_dir=./hparams/ICE/llama-8b.yaml \
+#     --datatype='zsre' \
+#     --metrics_save_dir=./results/llama-8b/ICE \
+#     --data_dir=./data/zsre_train_100000.json \
     # --data_dir=./data/zsre_train_10000.json \
