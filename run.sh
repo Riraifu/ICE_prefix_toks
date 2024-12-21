@@ -6,6 +6,7 @@ python examples/run_knowedit_llama2.py \
     --data_dir=./data/zsre_train_100000.json \
 
     # --data_dir=./data/zsre_eval_1000.json \
+    # --data_dir=./data/zsre_eval_1000.json \
     # --data_dir=./data/zsre_train_10000.json \
 # --data_dir=./data/zsre_eval_10.json \
 # --data_dir=./data/zsre_train_2000_4000.json \
