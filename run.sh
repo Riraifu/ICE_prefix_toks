@@ -1,9 +1,9 @@
-python examples/run_knowedit_llama2.py \
-    --editing_method=ICE \
-    --hparams_dir=./hparams/ICE/gpt2.yaml \
-    --datatype='zsre' \
-    --metrics_save_dir=./results/gpt2/ICE \
-    --data_dir=./data/zsre_train_100000.json \
+# python examples/run_knowedit_llama2.py \
+#     --editing_method=ICE \
+#     --hparams_dir=./hparams/ICE/gpt2.yaml \
+#     --datatype='zsre' \
+#     --metrics_save_dir=./results/gpt2/ICE \
+#     --data_dir=./data/zsre_train_100000.json \
 
     # --data_dir=./data/zsre_eval_1000.json \
     # --data_dir=./data/zsre_train_10000.json \
@@ -16,12 +16,12 @@ python examples/run_knowedit_llama2.py \
 # --data_dir=./data/zsre_train_sth_examples.json \
 
 
-# python examples/run_knowedit_llama2.py \
-#     --editing_method=ICE \
-#     --hparams_dir=./hparams/ICE/gpt2-xl.yaml \
-#     --data_dir=./data/zsre.json \
-#     --datatype='zsre' \
-#     --metrics_save_dir=./results/gpt2-xl/ICE
+python examples/run_knowedit_llama2.py \
+    --editing_method=ICE \
+    --hparams_dir=./hparams/ICE/gpt2-xl.yaml \
+    --datatype='zsre' \
+    --metrics_save_dir=./results/gpt2-xl/ICE\
+    --data_dir=./data/zsre_train_100000.json \
 
 
 

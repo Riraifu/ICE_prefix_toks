@@ -5,7 +5,7 @@ alg_name: "FT"
 model_name: /home/zhuliyi/LLM_bases/gpt2-xl
 # layers: [13, 14, 15, 16, 17]
 layers: []
-device: 4
+device: 6
 num_steps: 30
 batch_size: 1
 max_length: 40
