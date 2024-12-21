@@ -5,6 +5,7 @@ python examples/run_knowedit_llama2.py \
     --metrics_save_dir=./results/gpt2/ICE \
     --data_dir=./data/zsre_train_100000.json \
 
+
     # --data_dir=./data/zsre_eval_1000.json \
     # --data_dir=./data/zsre_train_10000.json \
 # --data_dir=./data/zsre_eval_10.json \
