@@ -217,7 +217,11 @@ def register_midattn_hook(model,prompts,prompt_target_ids,hparams,query_last_tok
 
 # register_token  不能是最后一层  因为没有attn了
 def register_token_hook(model,prefix_embds,hparams,device):
+<<<<<<< HEAD
     layer_idx = hparams.n_layer-30
+=======
+    layer_idx = hparams.prefix_layer
+>>>>>>> f27e33f4703e2872b0b009872582979d797205c3
     MODEL_LAYERS = {
         "gpt2":    model.transformer.h[layer_idx] if 'gpt2'    in hparams.M_name else None,
         "gpt2-xl": model.transformer.h[layer_idx] if 'gpt2-xl' in hparams.M_name else None,
@@ -246,11 +250,7 @@ def register_token_hook(model,prefix_embds,hparams,device):
 
 
 def register_subject_hook(model,prompts,hparams,subject_attn_token,start_end):
-    layer_idx = hparams.n_layer-20
-    # llama-2  ATTN -31 √ 94.7%   
-    # llama-2  FFN  -10
-    # GPT-J   FFN 
-    # GPT2   
+    layer_idx = hparams.subject_layer
     # ATTN_LAYERS = {
     #     "gpt2":    model.transformer.h[layer_idx].attn if 'gpt2'    in hparams.M_name else None,
     #     "gpt2-xl": model.transformer.h[layer_idx].attn if 'gpt2-xl' in hparams.M_name else None,

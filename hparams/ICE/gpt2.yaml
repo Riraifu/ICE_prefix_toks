@@ -1,20 +1,11 @@
 alg_name: "FT"
-# model_name: /home/zhuliyi/LLM_bases/gpt2-xl
-model_name: /home/zhuliyi/LLM_bases/gpt2  #-xl
+model_name: /home/zhuliyi/LLM_bases/gpt2 
 # layers: [4,5,6,7,8]
 layers: []
 device: 2
 num_steps: 40
 batch_size: 1
 max_length: 40
-# lr: 3e-5
-# lr: 3e-4
-# lr: 6e-4
-# lr: 3e-3   # √×  新方法
-# lr: 6e-3     # √√√ 新方法
-# lr: 1e-2 
-# lr: 5e-2  # 正常lr
-# lr: 9e-2 
 # lr: 3e-1
 # lr: 6e-1    # √ 新方法
 # lr: 9e-1    # √√√ 新方法
@@ -27,23 +18,18 @@ grad_norm_constraint: 5e-4
 num_return_sequences: 1
 max_new_tokens: 3
 static_target: False
-# sample_with_context: True
 sample_with_context: False
 target_update_interval: 1
 temperature: 100.0
-# print_kl: True
 print_kl: False
 
 M_name: gpt2
 n_layer: 12
 n_embd: 768
-
-# M_name: gpt2-xl
-# n_layer: 48
-# n_embd: 1600
+prefix_layer: 10
+subject_layer: 4
 
 
-# file_name: False_False
 
 
 # objective_optimization: "target_new"

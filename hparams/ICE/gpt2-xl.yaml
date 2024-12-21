@@ -29,7 +29,8 @@ print_kl: False
 M_name: gpt2-xl
 n_layer: 48
 n_embd: 1600
-
+prefix_layer: 18
+subject_layer: 28
 
 # objective_optimization: "target_new"
 objective_optimization: "target_and_completion_with_context"

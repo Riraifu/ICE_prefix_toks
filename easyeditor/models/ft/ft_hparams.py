@@ -30,6 +30,8 @@ class FTHyperParams(HyperParams):
     M_name: str
     n_layer: int = 12
     n_embd: int = 768
+    prefix_layer: int =10
+    subject_layer: int = 4
     
     # Defaults
     batch_size: int = 64

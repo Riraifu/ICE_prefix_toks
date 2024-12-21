@@ -31,6 +31,7 @@
 2024-12-21 18:46:57,533 - easyeditor.editors.editor - INFO - Evaluation took 0.1134939193725586
 2024-12-21 18:47:00,543 - easyeditor.editors.editor - INFO - Execution 9 editing took 0.5436851978302002
 2024-12-21 18:47:00,666 - easyeditor.editors.editor - INFO - Evaluation took 0.12195444107055664
+<<<<<<< HEAD
 2024-12-21 18:47:03,599 - easyeditor.editors.editor - INFO - Execution 10 editing took 0.6248724460601807
 2024-12-21 18:47:03,774 - easyeditor.editors.editor - INFO - Evaluation took 0.17393040657043457
 2024-12-21 18:47:07,108 - easyeditor.editors.editor - INFO - Execution 11 editing took 0.8825607299804688
@@ -9666,3 +9667,188 @@
 2024-12-21 22:44:22,690 - easyeditor.editors.editor - INFO - Evaluation took 0.12050342559814453
 2024-12-21 22:44:26,435 - easyeditor.editors.editor - INFO - Execution 1115 editing took 1.410785436630249
 2024-12-21 22:44:26,891 - easyeditor.editors.editor - INFO - Evaluation took 0.4545896053314209
+=======
+2024-12-21 22:24:05,055 - easyeditor.editors.editor - INFO - Instantiating model
+2024-12-21 22:24:12,128 - easyeditor.editors.editor - INFO - Execution 0 editing took 1.5670437812805176
+2024-12-21 22:24:12,212 - easyeditor.editors.editor - INFO - Evaluation took 0.08358454704284668
+2024-12-21 22:24:14,863 - easyeditor.editors.editor - INFO - Execution 1 editing took 0.8517835140228271
+2024-12-21 22:24:14,944 - easyeditor.editors.editor - INFO - Evaluation took 0.08073735237121582
+2024-12-21 22:24:17,630 - easyeditor.editors.editor - INFO - Execution 2 editing took 0.8694870471954346
+2024-12-21 22:24:17,711 - easyeditor.editors.editor - INFO - Evaluation took 0.0807347297668457
+2024-12-21 22:24:19,729 - easyeditor.editors.editor - INFO - Execution 3 editing took 0.21524405479431152
+2024-12-21 22:24:19,808 - easyeditor.editors.editor - INFO - Evaluation took 0.07893919944763184
+2024-12-21 22:24:21,874 - easyeditor.editors.editor - INFO - Execution 4 editing took 0.2599208354949951
+2024-12-21 22:24:21,955 - easyeditor.editors.editor - INFO - Evaluation took 0.08081412315368652
+2024-12-21 22:24:23,907 - easyeditor.editors.editor - INFO - Execution 5 editing took 0.15497398376464844
+2024-12-21 22:24:23,989 - easyeditor.editors.editor - INFO - Evaluation took 0.08125877380371094
+2024-12-21 22:24:26,226 - easyeditor.editors.editor - INFO - Execution 6 editing took 0.39779043197631836
+2024-12-21 22:24:26,308 - easyeditor.editors.editor - INFO - Evaluation took 0.08141779899597168
+2024-12-21 22:24:28,739 - easyeditor.editors.editor - INFO - Execution 7 editing took 0.5689334869384766
+2024-12-21 22:24:28,821 - easyeditor.editors.editor - INFO - Evaluation took 0.08178448677062988
+2024-12-21 22:24:30,956 - easyeditor.editors.editor - INFO - Execution 8 editing took 0.3307194709777832
+2024-12-21 22:24:31,038 - easyeditor.editors.editor - INFO - Evaluation took 0.0812690258026123
+2024-12-21 22:24:33,219 - easyeditor.editors.editor - INFO - Execution 9 editing took 0.3896019458770752
+2024-12-21 22:24:33,301 - easyeditor.editors.editor - INFO - Evaluation took 0.08079838752746582
+2024-12-21 22:24:35,564 - easyeditor.editors.editor - INFO - Execution 10 editing took 0.4561188220977783
+2024-12-21 22:24:35,645 - easyeditor.editors.editor - INFO - Evaluation took 0.08112788200378418
+2024-12-21 22:24:38,044 - easyeditor.editors.editor - INFO - Execution 11 editing took 0.5801610946655273
+2024-12-21 22:24:38,126 - easyeditor.editors.editor - INFO - Evaluation took 0.08148527145385742
+2024-12-21 22:24:40,805 - easyeditor.editors.editor - INFO - Execution 12 editing took 0.869645357131958
+2024-12-21 22:24:40,887 - easyeditor.editors.editor - INFO - Evaluation took 0.08159422874450684
+2024-12-21 22:24:43,569 - easyeditor.editors.editor - INFO - Execution 13 editing took 0.8698225021362305
+2024-12-21 22:24:43,650 - easyeditor.editors.editor - INFO - Evaluation took 0.0811314582824707
+2024-12-21 22:24:45,957 - easyeditor.editors.editor - INFO - Execution 14 editing took 0.44964122772216797
+2024-12-21 22:24:46,038 - easyeditor.editors.editor - INFO - Evaluation took 0.08058476448059082
+2024-12-21 22:24:48,291 - easyeditor.editors.editor - INFO - Execution 15 editing took 0.38974714279174805
+2024-12-21 22:24:48,374 - easyeditor.editors.editor - INFO - Evaluation took 0.0816349983215332
+2024-12-21 22:24:50,481 - easyeditor.editors.editor - INFO - Execution 16 editing took 0.3001594543457031
+2024-12-21 22:24:50,562 - easyeditor.editors.editor - INFO - Evaluation took 0.08098912239074707
+2024-12-21 22:24:52,689 - easyeditor.editors.editor - INFO - Execution 17 editing took 0.30280637741088867
+2024-12-21 22:24:52,771 - easyeditor.editors.editor - INFO - Evaluation took 0.08142280578613281
+2024-12-21 22:24:54,855 - easyeditor.editors.editor - INFO - Execution 18 editing took 0.2821652889251709
+2024-12-21 22:24:54,937 - easyeditor.editors.editor - INFO - Evaluation took 0.08084464073181152
+2024-12-21 22:24:57,023 - easyeditor.editors.editor - INFO - Execution 19 editing took 0.2805037498474121
+2024-12-21 22:24:57,104 - easyeditor.editors.editor - INFO - Evaluation took 0.08111977577209473
+2024-12-21 22:24:59,245 - easyeditor.editors.editor - INFO - Execution 20 editing took 0.3236238956451416
+2024-12-21 22:24:59,327 - easyeditor.editors.editor - INFO - Evaluation took 0.0813455581665039
+2024-12-21 22:25:01,434 - easyeditor.editors.editor - INFO - Execution 21 editing took 0.30171775817871094
+2024-12-21 22:25:01,516 - easyeditor.editors.editor - INFO - Evaluation took 0.08118748664855957
+2024-12-21 22:25:03,541 - easyeditor.editors.editor - INFO - Execution 22 editing took 0.2277364730834961
+2024-12-21 22:25:03,620 - easyeditor.editors.editor - INFO - Evaluation took 0.07929682731628418
+2024-12-21 22:25:06,100 - easyeditor.editors.editor - INFO - Execution 23 editing took 0.6729700565338135
+2024-12-21 22:25:06,182 - easyeditor.editors.editor - INFO - Evaluation took 0.08155941963195801
+2024-12-21 22:25:08,402 - easyeditor.editors.editor - INFO - Execution 24 editing took 0.4106426239013672
+2024-12-21 22:25:08,484 - easyeditor.editors.editor - INFO - Evaluation took 0.08163022994995117
+2024-12-21 22:25:10,559 - easyeditor.editors.editor - INFO - Execution 25 editing took 0.25696563720703125
+2024-12-21 22:25:10,640 - easyeditor.editors.editor - INFO - Evaluation took 0.08086013793945312
+2024-12-21 22:25:12,952 - easyeditor.editors.editor - INFO - Execution 26 editing took 0.5145392417907715
+2024-12-21 22:25:13,035 - easyeditor.editors.editor - INFO - Evaluation took 0.08239412307739258
+2024-12-21 22:25:15,737 - easyeditor.editors.editor - INFO - Execution 27 editing took 0.8726844787597656
+2024-12-21 22:25:15,819 - easyeditor.editors.editor - INFO - Evaluation took 0.08139872550964355
+2024-12-21 22:25:17,818 - easyeditor.editors.editor - INFO - Execution 28 editing took 0.15421819686889648
+2024-12-21 22:25:17,900 - easyeditor.editors.editor - INFO - Evaluation took 0.08142375946044922
+2024-12-21 22:25:19,898 - easyeditor.editors.editor - INFO - Execution 29 editing took 0.19788193702697754
+2024-12-21 22:25:19,980 - easyeditor.editors.editor - INFO - Evaluation took 0.08118557929992676
+2024-12-21 22:25:22,675 - easyeditor.editors.editor - INFO - Execution 30 editing took 0.8766679763793945
+2024-12-21 22:25:22,757 - easyeditor.editors.editor - INFO - Evaluation took 0.08121538162231445
+2024-12-21 22:25:25,445 - easyeditor.editors.editor - INFO - Execution 31 editing took 0.8676888942718506
+2024-12-21 22:25:25,526 - easyeditor.editors.editor - INFO - Evaluation took 0.08104825019836426
+2024-12-21 22:25:28,222 - easyeditor.editors.editor - INFO - Execution 32 editing took 0.8837592601776123
+2024-12-21 22:25:28,304 - easyeditor.editors.editor - INFO - Evaluation took 0.08112406730651855
+2024-12-21 22:25:30,309 - easyeditor.editors.editor - INFO - Execution 33 editing took 0.199296236038208
+2024-12-21 22:25:30,392 - easyeditor.editors.editor - INFO - Evaluation took 0.08179354667663574
+2024-12-21 22:25:32,335 - easyeditor.editors.editor - INFO - Execution 34 editing took 0.1123042106628418
+2024-12-21 22:25:32,417 - easyeditor.editors.editor - INFO - Evaluation took 0.0813741683959961
+2024-12-21 22:25:34,679 - easyeditor.editors.editor - INFO - Execution 35 editing took 0.46628808975219727
+2024-12-21 22:25:34,759 - easyeditor.editors.editor - INFO - Evaluation took 0.08005547523498535
+2024-12-21 22:25:36,932 - easyeditor.editors.editor - INFO - Execution 36 editing took 0.3708209991455078
+2024-12-21 22:25:37,013 - easyeditor.editors.editor - INFO - Evaluation took 0.08113646507263184
+2024-12-21 22:25:39,710 - easyeditor.editors.editor - INFO - Execution 37 editing took 0.8712728023529053
+2024-12-21 22:25:39,792 - easyeditor.editors.editor - INFO - Evaluation took 0.08100104331970215
+2024-12-21 22:25:41,918 - easyeditor.editors.editor - INFO - Execution 38 editing took 0.2624340057373047
+2024-12-21 22:25:41,999 - easyeditor.editors.editor - INFO - Evaluation took 0.0811469554901123
+2024-12-21 22:25:44,586 - easyeditor.editors.editor - INFO - Execution 39 editing took 0.7380375862121582
+2024-12-21 22:25:44,668 - easyeditor.editors.editor - INFO - Evaluation took 0.08109068870544434
+2024-12-21 22:25:47,073 - easyeditor.editors.editor - INFO - Execution 40 editing took 0.6089303493499756
+2024-12-21 22:25:47,155 - easyeditor.editors.editor - INFO - Evaluation took 0.08130407333374023
+2024-12-21 22:25:49,221 - easyeditor.editors.editor - INFO - Execution 41 editing took 0.2609269618988037
+2024-12-21 22:25:49,302 - easyeditor.editors.editor - INFO - Evaluation took 0.08066749572753906
+2024-12-21 22:25:51,315 - easyeditor.editors.editor - INFO - Execution 42 editing took 0.19613265991210938
+2024-12-21 22:25:51,396 - easyeditor.editors.editor - INFO - Evaluation took 0.08096122741699219
+2024-12-21 22:25:53,491 - easyeditor.editors.editor - INFO - Execution 43 editing took 0.28329038619995117
+2024-12-21 22:25:53,573 - easyeditor.editors.editor - INFO - Evaluation took 0.0814669132232666
+2024-12-21 22:25:55,534 - easyeditor.editors.editor - INFO - Execution 44 editing took 0.15399932861328125
+2024-12-21 22:25:55,616 - easyeditor.editors.editor - INFO - Evaluation took 0.08121395111083984
+2024-12-21 22:25:58,183 - easyeditor.editors.editor - INFO - Execution 45 editing took 0.758336067199707
+2024-12-21 22:25:58,265 - easyeditor.editors.editor - INFO - Evaluation took 0.08078885078430176
+2024-12-21 22:26:00,291 - easyeditor.editors.editor - INFO - Execution 46 editing took 0.22101235389709473
+2024-12-21 22:26:00,373 - easyeditor.editors.editor - INFO - Evaluation took 0.08150768280029297
+2024-12-21 22:26:02,786 - easyeditor.editors.editor - INFO - Execution 47 editing took 0.6113457679748535
+2024-12-21 22:26:02,868 - easyeditor.editors.editor - INFO - Evaluation took 0.08163928985595703
+2024-12-21 22:26:05,393 - easyeditor.editors.editor - INFO - Execution 48 editing took 0.7171573638916016
+2024-12-21 22:26:05,475 - easyeditor.editors.editor - INFO - Evaluation took 0.08155488967895508
+2024-12-21 22:26:07,454 - easyeditor.editors.editor - INFO - Execution 49 editing took 0.15450072288513184
+2024-12-21 22:26:07,536 - easyeditor.editors.editor - INFO - Evaluation took 0.08101892471313477
+2024-12-21 22:26:09,475 - easyeditor.editors.editor - INFO - Execution 50 editing took 0.13055729866027832
+2024-12-21 22:26:09,557 - easyeditor.editors.editor - INFO - Evaluation took 0.08084511756896973
+2024-12-21 22:26:11,747 - easyeditor.editors.editor - INFO - Execution 51 editing took 0.3901865482330322
+2024-12-21 22:26:11,828 - easyeditor.editors.editor - INFO - Evaluation took 0.0805199146270752
+2024-12-21 22:26:13,767 - easyeditor.editors.editor - INFO - Execution 52 editing took 0.1325845718383789
+2024-12-21 22:26:13,848 - easyeditor.editors.editor - INFO - Evaluation took 0.08093762397766113
+2024-12-21 22:26:15,823 - easyeditor.editors.editor - INFO - Execution 53 editing took 0.175978422164917
+2024-12-21 22:26:15,904 - easyeditor.editors.editor - INFO - Evaluation took 0.08121466636657715
+2024-12-21 22:26:18,324 - easyeditor.editors.editor - INFO - Execution 54 editing took 0.6312258243560791
+2024-12-21 22:26:18,406 - easyeditor.editors.editor - INFO - Evaluation took 0.08134031295776367
+2024-12-21 22:26:20,444 - easyeditor.editors.editor - INFO - Execution 55 editing took 0.21872925758361816
+2024-12-21 22:26:20,525 - easyeditor.editors.editor - INFO - Evaluation took 0.08110809326171875
+2024-12-21 22:26:22,580 - easyeditor.editors.editor - INFO - Execution 56 editing took 0.21820807456970215
+2024-12-21 22:26:22,661 - easyeditor.editors.editor - INFO - Evaluation took 0.08099150657653809
+2024-12-21 22:26:24,754 - easyeditor.editors.editor - INFO - Execution 57 editing took 0.24018454551696777
+2024-12-21 22:26:24,836 - easyeditor.editors.editor - INFO - Evaluation took 0.0808415412902832
+2024-12-21 22:26:26,870 - easyeditor.editors.editor - INFO - Execution 58 editing took 0.22241973876953125
+2024-12-21 22:26:26,952 - easyeditor.editors.editor - INFO - Evaluation took 0.08125185966491699
+2024-12-21 22:26:28,985 - easyeditor.editors.editor - INFO - Execution 59 editing took 0.19767189025878906
+2024-12-21 22:26:29,067 - easyeditor.editors.editor - INFO - Evaluation took 0.08115577697753906
+2024-12-21 22:26:31,072 - easyeditor.editors.editor - INFO - Execution 60 editing took 0.22007250785827637
+2024-12-21 22:26:31,153 - easyeditor.editors.editor - INFO - Evaluation took 0.08104562759399414
+2024-12-21 22:26:33,155 - easyeditor.editors.editor - INFO - Execution 61 editing took 0.19724464416503906
+2024-12-21 22:26:33,237 - easyeditor.editors.editor - INFO - Evaluation took 0.08084297180175781
+2024-12-21 22:26:35,352 - easyeditor.editors.editor - INFO - Execution 62 editing took 0.3046383857727051
+2024-12-21 22:26:35,433 - easyeditor.editors.editor - INFO - Evaluation took 0.08039736747741699
+2024-12-21 22:26:37,489 - easyeditor.editors.editor - INFO - Execution 63 editing took 0.2506427764892578
+2024-12-21 22:26:37,568 - easyeditor.editors.editor - INFO - Evaluation took 0.07887458801269531
+2024-12-21 22:26:39,545 - easyeditor.editors.editor - INFO - Execution 64 editing took 0.16824746131896973
+2024-12-21 22:26:39,625 - easyeditor.editors.editor - INFO - Evaluation took 0.07902121543884277
+2024-12-21 22:26:41,608 - easyeditor.editors.editor - INFO - Execution 65 editing took 0.19236230850219727
+2024-12-21 22:26:41,688 - easyeditor.editors.editor - INFO - Evaluation took 0.07925724983215332
+2024-12-21 22:26:44,361 - easyeditor.editors.editor - INFO - Execution 66 editing took 0.8669939041137695
+2024-12-21 22:26:44,443 - easyeditor.editors.editor - INFO - Evaluation took 0.08144211769104004
+2024-12-21 22:26:46,484 - easyeditor.editors.editor - INFO - Execution 67 editing took 0.23912882804870605
+2024-12-21 22:26:46,565 - easyeditor.editors.editor - INFO - Evaluation took 0.08092999458312988
+2024-12-21 22:26:48,618 - easyeditor.editors.editor - INFO - Execution 68 editing took 0.2404773235321045
+2024-12-21 22:26:48,699 - easyeditor.editors.editor - INFO - Evaluation took 0.08079957962036133
+2024-12-21 22:26:51,037 - easyeditor.editors.editor - INFO - Execution 69 editing took 0.5418331623077393
+2024-12-21 22:26:51,120 - easyeditor.editors.editor - INFO - Evaluation took 0.08230304718017578
+2024-12-21 22:26:53,405 - easyeditor.editors.editor - INFO - Execution 70 editing took 0.48561549186706543
+2024-12-21 22:26:53,485 - easyeditor.editors.editor - INFO - Evaluation took 0.08010315895080566
+2024-12-21 22:26:55,519 - easyeditor.editors.editor - INFO - Execution 71 editing took 0.23876023292541504
+2024-12-21 22:26:55,600 - easyeditor.editors.editor - INFO - Evaluation took 0.08087801933288574
+2024-12-21 22:26:57,670 - easyeditor.editors.editor - INFO - Execution 72 editing took 0.26136207580566406
+2024-12-21 22:26:57,752 - easyeditor.editors.editor - INFO - Evaluation took 0.08113312721252441
+2024-12-21 22:26:59,783 - easyeditor.editors.editor - INFO - Execution 73 editing took 0.21633172035217285
+2024-12-21 22:26:59,864 - easyeditor.editors.editor - INFO - Evaluation took 0.08055830001831055
+2024-12-21 22:27:01,998 - easyeditor.editors.editor - INFO - Execution 74 editing took 0.32122063636779785
+2024-12-21 22:27:02,080 - easyeditor.editors.editor - INFO - Evaluation took 0.08127403259277344
+2024-12-21 22:27:04,152 - easyeditor.editors.editor - INFO - Execution 75 editing took 0.2581515312194824
+2024-12-21 22:27:04,234 - easyeditor.editors.editor - INFO - Evaluation took 0.0810098648071289
+2024-12-21 22:27:06,418 - easyeditor.editors.editor - INFO - Execution 76 editing took 0.34722352027893066
+2024-12-21 22:27:06,499 - easyeditor.editors.editor - INFO - Evaluation took 0.0809779167175293
+2024-12-21 22:27:08,966 - easyeditor.editors.editor - INFO - Execution 77 editing took 0.6466579437255859
+2024-12-21 22:27:09,048 - easyeditor.editors.editor - INFO - Evaluation took 0.08146071434020996
+2024-12-21 22:27:11,621 - easyeditor.editors.editor - INFO - Execution 78 editing took 0.7506117820739746
+2024-12-21 22:27:11,702 - easyeditor.editors.editor - INFO - Evaluation took 0.08062577247619629
+2024-12-21 22:27:14,193 - easyeditor.editors.editor - INFO - Execution 79 editing took 0.6934816837310791
+2024-12-21 22:27:14,275 - easyeditor.editors.editor - INFO - Evaluation took 0.08108997344970703
+2024-12-21 22:27:16,822 - easyeditor.editors.editor - INFO - Execution 80 editing took 0.7412075996398926
+2024-12-21 22:27:16,903 - easyeditor.editors.editor - INFO - Evaluation took 0.08053255081176758
+2024-12-21 22:27:19,568 - easyeditor.editors.editor - INFO - Execution 81 editing took 0.861699104309082
+2024-12-21 22:27:19,649 - easyeditor.editors.editor - INFO - Evaluation took 0.08083057403564453
+2024-12-21 22:27:21,781 - easyeditor.editors.editor - INFO - Execution 82 editing took 0.32228589057922363
+2024-12-21 22:27:21,862 - easyeditor.editors.editor - INFO - Evaluation took 0.08071184158325195
+2024-12-21 22:28:09,420 - easyeditor.editors.editor - INFO - Instantiating model
+2024-12-21 22:28:16,495 - easyeditor.editors.editor - INFO - Execution 0 editing took 1.5640769004821777
+2024-12-21 22:28:16,578 - easyeditor.editors.editor - INFO - Evaluation took 0.0824277400970459
+2024-12-21 22:28:19,199 - easyeditor.editors.editor - INFO - Execution 1 editing took 0.8188996315002441
+2024-12-21 22:28:19,278 - easyeditor.editors.editor - INFO - Evaluation took 0.07921409606933594
+2024-12-21 22:33:26,960 - easyeditor.editors.editor - INFO - Instantiating model
+2024-12-21 22:33:34,095 - easyeditor.editors.editor - INFO - Execution 0 editing took 1.5980801582336426
+2024-12-21 22:33:34,179 - easyeditor.editors.editor - INFO - Evaluation took 0.08359456062316895
+2024-12-21 22:33:36,828 - easyeditor.editors.editor - INFO - Execution 1 editing took 0.8480548858642578
+2024-12-21 22:33:36,910 - easyeditor.editors.editor - INFO - Evaluation took 0.08136153221130371
+2024-12-21 22:33:39,563 - easyeditor.editors.editor - INFO - Execution 2 editing took 0.8575656414031982
+2024-12-21 22:33:39,645 - easyeditor.editors.editor - INFO - Evaluation took 0.08085346221923828
+2024-12-21 22:33:41,663 - easyeditor.editors.editor - INFO - Execution 3 editing took 0.20734429359436035
+2024-12-21 22:33:41,743 - easyeditor.editors.editor - INFO - Evaluation took 0.07896852493286133
+2024-12-21 22:33:43,810 - easyeditor.editors.editor - INFO - Execution 4 editing took 0.255387544631958
+2024-12-21 22:33:43,896 - easyeditor.editors.editor - INFO - Evaluation took 0.08600163459777832
+>>>>>>> f27e33f4703e2872b0b009872582979d797205c3

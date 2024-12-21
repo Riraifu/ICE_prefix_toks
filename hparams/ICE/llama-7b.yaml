@@ -23,6 +23,8 @@ print_kl: False
 M_name: llama-2-7b
 n_layer: 32
 n_embd: 4096
+prefix_layer: 1
+subject_layer: 12
 
 
 objective_optimization: "target_and_completion_with_context"
