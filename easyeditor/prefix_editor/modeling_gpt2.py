@@ -64,8 +64,6 @@ _CHECKPOINT_FOR_DOC = "openai-community/gpt2"
 _CONFIG_FOR_DOC = "GPT2Config"
 
 
-from transformers.models.deprecated._archive_maps import GPT2_PRETRAINED_MODEL_ARCHIVE_LIST  # noqa: F401, E402
-
 
 # Copied from transformers.models.llama.modeling_llama._get_unpad_data
 def _get_unpad_data(attention_mask):

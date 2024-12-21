@@ -24,7 +24,8 @@ print_kl: False
 M_name: gpt-j-6b
 n_layer: 28
 n_embd: 4096
-
+prefix_layer: 23
+subject_layer: 8
 
 # objective_optimization: "target_new"
 objective_optimization: "target_and_completion_with_context"
