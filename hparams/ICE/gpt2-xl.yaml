@@ -6,12 +6,14 @@ model_name: /home/zhuliyi/LLM_bases/gpt2-xl
 # layers: [13, 14, 15, 16, 17]
 layers: []
 device: 4
-num_steps: 50
-batch_size: 3
+num_steps: 30
+batch_size: 1
 max_length: 40
 # lr: 7e-4
 # lr: 1e-3
-lr: 9e-2
+# lr: 9e-2
+# lr: 9e-2
+lr: 1.5
 weight_decay: 0
 kl_factor: 0
 norm_constraint: 5e-4
@@ -19,10 +21,10 @@ grad_norm_constraint: 5e-4
 num_return_sequences: 1
 max_new_tokens: 3
 static_target: False
-sample_with_context: True
+sample_with_context: False
 target_update_interval: 1
 temperature: 100.0
-print_kl: True
+print_kl: False
 
 M_name: gpt2-xl
 n_layer: 48

@@ -217,7 +217,7 @@ def register_midattn_hook(model,prompts,prompt_target_ids,hparams,query_last_tok
 
 # register_token  不能是最后一层  因为没有attn了
 def register_token_hook(model,prefix_embds,hparams,device):
-    layer_idx = hparams.n_layer-5
+    layer_idx = hparams.n_layer-2
     MODEL_LAYERS = {
         "gpt2":    model.transformer.h[layer_idx] if 'gpt2'    in hparams.M_name else None,
         "gpt2-xl": model.transformer.h[layer_idx] if 'gpt2-xl' in hparams.M_name else None,
