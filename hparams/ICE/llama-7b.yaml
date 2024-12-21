@@ -1,8 +1,6 @@
 alg_name: "FT"
-# model_name: meta-llama/Llama-2-7b-chat-hf
-# model_name: /home/zhuliyi/LLM_bases/Llama-2-7b-chat-hf
 model_name: /home/zhuliyi/LLM_bases/Llama-2-7b-hf
-device: 4
+device: 1
 # layers: [4, 5, 6, 7, 8]
 layers: []
 num_steps: 30
@@ -17,17 +15,14 @@ grad_norm_constraint: 5e-4
 num_return_sequences: 1
 max_new_tokens: 3
 static_target: False
-# sample_with_context: True
 sample_with_context: False
 target_update_interval: 1
 temperature: 100.0
-# print_kl: True
 print_kl: False
 
 M_name: llama-2-7b
 n_layer: 32
 n_embd: 4096
-# file_name: False_False
 
 
 objective_optimization: "target_and_completion_with_context"

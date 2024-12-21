@@ -2,15 +2,10 @@ alg_name: "FT"
 model_name: /home/zhuliyi/LLM_bases/gpt-j-6b
 # layers: [4,5,6,7,8]
 layers: []
-device: 7
+device: 0
 num_steps: 30
 batch_size: 1
 max_length: 40
-# lr: 5e-5   # ×
-# lr: 7e-4   # ×
-# lr: 5e-3
-# lr: 5e-2
-# lr: 1e-1
 lr: 3e-1  # √
 # lr: 5e-1
 weight_decay: 0
@@ -21,17 +16,14 @@ grad_norm_constraint: 5e-4
 num_return_sequences: 1
 max_new_tokens: 3
 static_target: False
-# sample_with_context: True
 sample_with_context: False
 target_update_interval: 1
 temperature: 100.0
-# print_kl: True
 print_kl: False
 
 M_name: gpt-j-6b
 n_layer: 28
 n_embd: 4096
-# file_name: False_False
 
 
 # objective_optimization: "target_new"
